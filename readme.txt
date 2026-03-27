@@ -3,7 +3,7 @@ Contributors: obenland
 Tags: testing, dontuse
 Requires at least: 4.1.1
 Tested up to: 6.9
-Stable tag: 0.4
+Stable tag: 0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -25,6 +25,9 @@ This plugin really serves no purpose.
 no
 
 == Changelog ==
+
+= 0.5 =
+* Test production MCP update flow.
 
 = 0.4 =
 * Test MCP update flow.
